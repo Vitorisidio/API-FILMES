@@ -4,4 +4,4 @@ Na reunião (12/05/2026) com o fernando, foi solicitado o desenvolvimento de um 
 
 Anotações de Stories Users
 
-Eu como contador preciso
+"Eu como contador preciso consultar rapidamente as taxas cambiais de maneira rápida a seguro, pelo computador ou pelo celula"
